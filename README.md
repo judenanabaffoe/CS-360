@@ -1,5 +1,7 @@
 Warehouse Inventory App — CS 360 Portfolio Artifact
+
 Project Summary & User Goals
+
 The Warehouse Inventory App is an Android-based inventory management application engineered to solve critical tracking bottlenecks for small-to-medium enterprises (SMEs) and warehouse floor operations. The primary objective is to replace error-prone, static tracking methods with a reliable, offline-first digital database. The application addresses key user needs by enabling floor staff to execute instant Create, Read, Update, and Delete (CRUD) operations on stock levels and configure automated low-stock SMS alerts to prevent supply chain disruptions and costly stock-outs.
 
 User-Centered UI & Feature Architecture
